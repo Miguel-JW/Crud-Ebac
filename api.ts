@@ -13,7 +13,7 @@ import type { Book, NewBook } from '../types/Book'
  * Atenção: o endpoint gerado pelo crudcrud expira em 24 horas — depois
  * disso é preciso gerar uma nova URL e atualizar esta constante.
  */
-export const API_BASE_URL = 'https://crudcrud.com/api/SEU_ENDPOINT/livros'
+export const API_BASE_URL = 'https://crudcrud.com/api/a8b444fc100841c4b091b094e7246788/livros'
 
 /**
  * GET — lista todos os livros cadastrados.
